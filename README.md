@@ -1,15 +1,15 @@
 ![tinkercard](./img/tinkercard.jpg)
 ## DOCUMENTACION DEL TRABAJO PRACTICO DE SPD
 
-- **Alumno**: Matias Emanuel Briceño Castillo
+- **Alumno**: Cabral Ezequiel Matías
 
- - **Legajo**: 115466
+ - **Legajo**: 115472
 
 ### INTEGRANTES
 
 - Almonacid, Emir Leandro
 
-- Cabral, Ezequiel Matias
+- Matias Emanuel Briceño Castillo
 
 
 ![Placa_arduino](./img/placa_arduino.png) 
